@@ -136,29 +136,33 @@ Open the notebooks in order:
 
 Interactive Banking Analytics Dashboard for management — covering executive KPIs, customer insights, loan analysis, and branch performance.
 
-Dashboard 1 — Executive Overview
-KPIs: Total Customers · Total Deposits · Total Loans · Total Transactions · Avg Account Balance · Avg Loan Amount
+### Dashboard 1 — Executive Overview
 
-Charts: Customer growth, deposit trend, loan trend, transaction trend, branch performance, loan status.
+**KPIs:** Total Customers · Total Deposits · Total Loans · Total Transactions · Avg Account Balance · Avg Loan Amount
 
-Filters: Date, City, Branch, Account Type, Loan Type, Gender.
+**Charts:** Customer growth, deposit trend, loan trend, transaction trend, branch performance, loan status.
 
-https://raw.githubusercontent.com/shraban50/Banking-Customer-Loan-Analytics/main/tableau/Dashboard-1.png
+**Filters:** Date, City, Branch, Account Type, Loan Type, Gender.
 
-Dashboard 2 — Customer Analytics
+![Dashboard 1](https://raw.githubusercontent.com/shraban50/Banking-Customer-Loan-Analytics/main/tableau/Dashboard-1.png)
+
+### Dashboard 2 — Customer Analytics
+
 Customer demographics · Income distribution · Customer distribution by city · Customer growth · Top customers · Account balances.
 
-https://raw.githubusercontent.com/shraban50/Banking-Customer-Loan-Analytics/main/tableau/Dashboard-2.png
+![Dashboard 2](https://raw.githubusercontent.com/shraban50/Banking-Customer-Loan-Analytics/main/tableau/Dashboard-2.png)
 
-Dashboard 3 — Loan Analytics
+### Dashboard 3 — Loan Analytics
+
 Total loan amount · Number of loans · Loan types · Approved vs rejected · Active vs completed · Average loan amount · Loan performance by branch · Loan performance by customer segment.
 
-https://raw.githubusercontent.com/shraban50/Banking-Customer-Loan-Analytics/main/tableau/Dashboard-3.png
+![Dashboard 3](https://raw.githubusercontent.com/shraban50/Banking-Customer-Loan-Analytics/main/tableau/Dashboard-3.png)
 
-Dashboard 4 — Branch Performance
+### Dashboard 4 — Branch Performance
+
 Compare branches by customers, deposits, loans, transactions, average balance, and loan performance. Identify best-performing and underperforming branches.
 
-https://raw.githubusercontent.com/shraban50/Banking-Customer-Loan-Analytics/main/tableau/Dashboard-4.png
+![Dashboard 4](https://raw.githubusercontent.com/shraban50/Banking-Customer-Loan-Analytics/main/tableau/Dashboard-4.png)
 
 ---
 
